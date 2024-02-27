@@ -1,5 +1,5 @@
 # AZ-104: Microsoft Azure Administrator
-
+# Fork with reverted changes for returning back the Labs 03a, 03b, 03c and 03d
 ## Welcome
 
 This repository is for instructors teaching Microsoft courses. If you are in class, please ask your instructor for assistance. 
